@@ -1,0 +1,10 @@
+.env
+.idea/
+img/
+bing_img/
+test_images/
+train_images/
+img.zip
+results/
+__pycache__/
+.ipynb_checkpoints/
